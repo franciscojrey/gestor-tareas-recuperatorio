@@ -44,3 +44,7 @@ Aplicación móvil desarrollada con React Native y Expo que permite gestionar ta
 
 ### Navegación
 - Flujo condicional: Login/Registro si no hay sesión; Home/Nueva Tarea si hay sesión activa
+
+## Video demostrativo
+
+https://www.youtube.com/shorts/UBoLp6NhuPI
